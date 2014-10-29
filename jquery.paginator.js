@@ -1,3 +1,16 @@
+/*
+ * jquery.wikify
+ *
+ * Copyright (c) 2013 moises.rangel@gmail.com
+ *
+ * Licensed under MIT
+ * http://www.opensource.org/licenses/mit-license.php
+ *
+ * Launch      : October 2014
+ * Version     : .01-beta1
+ * Dependencies: qtip (http://qtip2.com/)
+ */
+
 (function($)
 {
 	 $.fn.paginator = function(options)
